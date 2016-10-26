@@ -1,3 +1,3 @@
 # Flash2Mind
 
-## Papers, records .etc
+#####  some materials for learning 
